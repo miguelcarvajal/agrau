@@ -6199,7 +6199,7 @@ button.close {
   content: '\203a';
 }
 .carousel-indicators {
-  position: absolute;
+  position: relative;
   bottom: 10px;
   left: 50%;
   z-index: 15;
