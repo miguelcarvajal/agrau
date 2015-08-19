@@ -5119,6 +5119,7 @@ a.thumbnail.active {
 .list-group {
   padding-left: 0;
   margin-bottom: 20px;
+  color: #555;    
 }
 .list-group-item {
   position: relative;
@@ -5170,7 +5171,7 @@ a.list-group-item:focus {
 .list-group-item.active:hover,
 .list-group-item.active:focus {
   z-index: 2;
-  color: #fff;
+  color: #555;
   background-color: #337ab7;
   border-color: #337ab7;
 }
