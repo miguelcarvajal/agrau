@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Almudena Grau · Spanish > English Translator 
+title: Almudena Grau · Spanish to English Translator 
 email: info@almudenagrau.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Spanish > English Freelance Translator. More than words. Working with brands to build their image by conveying the underlying nuances of their messages.
+  Spanish to English Translator. More than words. I help companies reach international markets by building a meticulous image and conveying the underlying nuances of their messages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://almudenagrau.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
