@@ -9,8 +9,7 @@ permalink: /contact.html
 
 <div class="section-title">
   <h2>Contact</h2>
-<p>Feel free to call or email me to request additional information or to discuss how I may be of service to you. My business hours are from 9:00 a.m. to 6:00 p.m., Monday through Friday.
-</p>
+<p>Feel free to call or email me to request a quote or to discuss how I can help you expand your business to reach international markets. My business hours are from 9:00 a.m. to 6:00 p.m., Monday through Friday.</p>
 </div>
 
 <div class="row mt-5 justify-content-center">

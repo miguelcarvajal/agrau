@@ -9,6 +9,8 @@ permalink: /services.html
 
 <div class="section-title">
   <h2>Services</h2>
+  <p>Areas of expertise:</p>
+
 </div>
 
 <div class="row">
