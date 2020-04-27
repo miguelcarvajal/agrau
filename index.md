@@ -3,7 +3,7 @@ layout: default
 ---
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">
-<div class="container">
+<div class="container" style="max-width:900px;">
 <div class="section-title">
   <h2></h2>
 </div>

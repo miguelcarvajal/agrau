@@ -9,7 +9,7 @@ permalink: /services.html
 
 <div class="section-title">
   <h2>Services</h2>
-  <p>Areas of expertise:</p>
+  <h4>Areas of expertise:</h4>
 
 </div>
 
@@ -28,7 +28,7 @@ permalink: /services.html
   </div>
   <div class="col-md-6 mt-4">
     <div class="icon-box">
-      <i class="icofont-image"></i>
+      <i class="icofont-badge"></i>
       <h4>Public Relations</h4>
     </div>
   </div>
