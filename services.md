@@ -100,14 +100,14 @@ permalink: /services.html
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4>Image</h4>
-              <p>Your product or service deserves a translation that is in line with the impeccable image you strive to convey. Sure, there are cheaper and even free alternatives, but at what cost to your business?</p>
+              <p>You’ve worked hard to build your business and need a professional translation that is in line with the impeccable image you strive to convey. Sure, there are cheaper or even free alternatives, but at what cost to your reputation?</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4>Reliability</h4>
-              <p>I personally translate every word; nothing is outsourced. This ensures a consistent style and terminology, with no surprises.</p>
+              <p>I personally translate every word and nothing is outsourced. This ensures a consistent style and terminology, giving you peace of mind.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
@@ -121,7 +121,7 @@ permalink: /services.html
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4>Quality assurance</h4>
-              <p>Once I finish translating a text, my methodology includes various revisions and tools to ensure an error-free document, with the right tone and wording.</p>
+              <p>Once I finish translating a document, it undergoes multiple revisions and QA tools to ensure a polished, error-free text, with the right wording and tone.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
@@ -135,7 +135,7 @@ permalink: /services.html
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4>Long-term partnerships</h4>
-              <p>I believe in building lasting relationships with clients. The longer we work together, the more I am able to understand your preferences and needs, and the better service I can offer.</p>
+              <p>The longer we work together, the more I am able to understand your preferences and needs, and the better service I can offer.</p>
             </div>
           </div>
 
@@ -148,7 +148,7 @@ permalink: /services.html
 <section id="about" class="about">
       <div class="container">
         <div class="section-title">
-          <h2>I have translated texts for companies such as</h2>
+          <h2>Some of the companies I have translated for include:</h2>
         </div>
         <div class="row">
           <div class="col-lg-6 pt-4 pt-lg-0">
@@ -167,7 +167,6 @@ permalink: /services.html
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <ul>  
-              <li><i class="bx bx-check-double"></i>Mustang</li>
               <li><i class="bx bx-check-double"></i>Nae</li>
               <li><i class="bx bx-check-double"></i>Ordesa</li>
               <li><i class="bx bx-check-double"></i>Pepsi</li>
@@ -226,8 +225,7 @@ permalink: /services.html
 
   <div class="testimonial-item">
     <p>
-      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-      Outstanding translator. She's become one of my usual providers, definitely to be recommended!      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+      <i class="bx bxs-quote-alt-left quote-icon-left"></i>Outstanding translator. She's become one of my usual providers, definitely to be recommended!<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
     <img src="assets/img/testimonials/wordwire.jpg" class="testimonial-img" alt="">
     <h3>Wordwire</h3>
@@ -235,8 +233,7 @@ permalink: /services.html
 
   <div class="testimonial-item">
     <p>
-      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-An outstanding professional! It is a pleasure to find translators like Almudena, and we will continue working with her.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+      <i class="bx bxs-quote-alt-left quote-icon-left"></i>An outstanding professional! It is a pleasure to find translators like Almudena, and we will continue working with her.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
     <img src="assets/img/testimonials/carma.jpg" class="testimonial-img" alt="">
     <h3>Carma</h3>
@@ -244,8 +241,7 @@ An outstanding professional! It is a pleasure to find translators like Almudena,
 
   <div class="testimonial-item">
     <p>
-      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-Very good quality and communication. Delivered as promised and was friendly and flexible at all times. Highly recommended.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+      <i class="bx bxs-quote-alt-left quote-icon-left"></i>Very good quality and communication. Delivered as promised and was friendly and flexible at all times. Highly recommended.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
     <img src="assets/img/testimonials/tradoline.jpg" class="testimonial-img" alt="">
     <h3>Trad Online</h3>

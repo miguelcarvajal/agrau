@@ -9,26 +9,24 @@ permalink: /contact.html
 
 <div class="section-title">
   <h2>Contact</h2>
-
+<p>Feel free to call or email me to request additional information or to discuss how I may be of service to you. My business hours are from 9:00 a.m. to 6:00 p.m., Monday through Friday.
+</p>
 </div>
 
 <div class="row mt-5 justify-content-center">
 
   <div class="col-lg-10">
-
-<p>Feel free to call or email me to request additional information or to discuss how I may be of service to you. My business hours are from 9:00 a.m. to 6:00 p.m., Monday through Friday.
-</p>
     <div class="info-wrap">
       <div class="row">
         <div class="col-lg-6 info mt-4 mt-lg-0">
           <i class="icofont-envelope"></i>
           <h4>Email:</h4>
-          <p>info@almudenagrau.com</p>
+          <p><a href="mailto:info@almudenagrau.com">info@almudenagrau.com</a></p>
         </div>
          <div class="col-lg-6 info mt-4 mt-lg-0">
           <i class="icofont-phone"></i>
           <h4>Call:</h4>
-          <p>+34 607 984 025</p>
+          <p><a href="tel:+34607984025">+34 607 984 025</a></p>
         </div>
       </div>
     </div>
