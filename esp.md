@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Traductora Español Inglés
+permalink: /es/
 ---
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">

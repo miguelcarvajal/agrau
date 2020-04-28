@@ -9,7 +9,12 @@ permalink: /services.html
 
 <div class="section-title">
   <h2>Services</h2>
-  <h4>Areas of expertise:</h4>
+  <p>Spanish businesses that want to build an international brand or expand abroad, and be taken
+seriously in the process, should hire a professional translator. This is where I come in. My
+clients don’t settle for literal translations; they need something that will convey the polished
+image they have worked so hard to create.</p>
+
+<p>I specialize in:</p>
 
 </div>
 
@@ -23,7 +28,7 @@ permalink: /services.html
   <div class="col-md-6 mt-4 mt-lg-0">
     <div class="icon-box">
       <i class="icofont-chart-bar-graph"></i>
-      <h4>eCommerce</h4>
+      <h4>eCommerce & Websites</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
@@ -35,7 +40,7 @@ permalink: /services.html
   <div class="col-md-6 mt-4">
     <div class="icon-box">
       <i class="icofont-settings"></i>
-      <h4>Information Technology</h4>
+      <h4>Information Technology & Telecommunications</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
@@ -71,7 +76,7 @@ permalink: /services.html
   <div class="col-md-6 mt-4">
     <div class="icon-box">
       <i class="icofont-settings"></i>
-      <h4>Food & Dining</h4>
+      <h4>Food & Drink</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
@@ -245,7 +250,7 @@ permalink: /services.html
     <p>
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>Very good quality and communication. Delivered as promised and was friendly and flexible at all times. Highly recommended.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="assets/img/testimonials/tradoline.jpg" class="testimonial-img" alt="">
+    <img src="assets/img/testimonials/tradonline.jpg" class="testimonial-img" alt="">
     <h3>Trad Online</h3>
   </div>
 
