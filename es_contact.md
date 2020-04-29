@@ -1,16 +1,16 @@
 ---
-layout: page
+layout: es_page
 title: Contact
-permalink: /contact.html
+permalink: /es/contacto.html
 ---
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact section-bg">
 <div class="container">
 
 <div class="section-title">
-  <h2>Contacto</h2>
-<p>Llámame o escríbeme para pedir presupuesto o para ver cómo puedo ayudarte a expandir tu negocio al mercado.</p>
-<p>internacional. Mi horario de trabajo es de las 9:00 a.m. a las 6:00 p.m., de lunes a viernes.</p>
+  <h2>Contact</h2>
+<p>Feel free to call or email me to request a quote or to discuss how I can help you expand your business to reach international markets.</p>
+<p>My business hours are from 9:00 a.m. to 6:00 p.m., Monday through Friday.</p>
 </div>
 
 <div class="row mt-5 justify-content-center">
@@ -25,7 +25,7 @@ permalink: /contact.html
         </div>
          <div class="col-lg-6 info mt-4 mt-lg-0">
           <i class="icofont-phone"></i>
-          <h4>Teléfono:</h4>
+          <h4>Call:</h4>
           <p><a href="tel:+34607984025">+34 607 984 025</a></p>
         </div>
       </div>
