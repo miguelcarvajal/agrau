@@ -23,7 +23,7 @@ permalink: /es/acerca.html
     <div class="row icon-boxes pt-4">
       <div class="col-md-6">
         <i class="bx bx-receipt"></i>
-        <h4>Background:</h4>
+        <h4>Historial:</h4>
         <p>-	Universidad de Maryland (Maryland, EEUU). Grado en Administración y Dirección de Empresas (Especialidad en Marketing y Negocio internacional). Diciembre, 1997</p>
         <p>-	Instituto Thomas S. Wootton (Maryland, EEUU). Junio, 1994</p>
         <p>-	Bachillerato en Robert Frost (Maryland, EEUU). Junio, 1990</p>
@@ -39,7 +39,7 @@ permalink: /es/acerca.html
         <p>-	MS Office</p>
       </div>
       <div class="col-md-12 mt-4 mt-md-0">
-        <h4>Downloads:</h4>
+        <h4>Descargas:</h4>
         <p>-	<a href="../docs/AlmudenaGrau_english.pdf">CV en inglés</a></p>
         <p>-	<a href="../docs/AlmudenaGrau_spanish.pdf">CV en español</a></p>
       </div>
