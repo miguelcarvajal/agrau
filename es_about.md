@@ -8,7 +8,7 @@ permalink: /es/acerca.html
 <div class="container">
 
 <div class="section-title">
-  <h2>About me</h2>
+  <h2>Sobre mí</h2>
 </div>
 
 <div class="row">
