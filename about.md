@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: en_page
 title: About me
-dest: /es/acerca.html
-permalink: /about.html
+dest: /acerca.html
+permalink: /en/about.html
 ---
 <!-- ======= About Section ======= -->
 <section id="about" class="about section-bg">
@@ -14,7 +14,7 @@ permalink: /about.html
 
 <div class="row">
   <div class="col-lg-6">
-    <img src="assets/img/about.jpg" class="img-fluid rounded" alt="">
+    <img src="../assets/img/about.jpg" class="img-fluid rounded" alt="">
   </div>
   <div class="col-lg-6 pt-4 pt-lg-0">
 <p>As a seasoned translator with 17 years of experience, I work with companies that want to reach international markets, helping them to build a meticulous image and conveying the underlying nuances of their messages. Although I have a traditional Spanish name, my family relocated to the United States shortly after I was born. I was raised in a bicultural setting, but English is my mother tongue and I only translate from Spanish to English. Around my 30th birthday, I decided to leave Washington DC, my hometown, and move back to Europe. I settled down in Alicante because of the fantastic climate and quality of life, but I continue to travel regularly throughout Europe and the rest of the world.</p> 

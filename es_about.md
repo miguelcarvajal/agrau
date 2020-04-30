@@ -1,8 +1,8 @@
 ---
-layout: es_page
+layout: page
 title: Sobre mí
-dest: /about.html
-permalink: /es/acerca.html
+dest: /en/about.html
+permalink: /acerca.html
 ---
 <!-- ======= About Section ======= -->
 <section id="about" class="about section-bg">
@@ -14,7 +14,7 @@ permalink: /es/acerca.html
 
 <div class="row">
   <div class="col-lg-6">
-    <img src="../assets/img/about.jpg" class="img-fluid rounded" alt="">
+    <img src="assets/img/about.jpg" class="img-fluid rounded" alt="">
   </div>
   <div class="col-lg-6 pt-4 pt-lg-0">
 <p>Como traductora avalada por 17 años de recorrido, trabajo con empresas españolas que quieren conquistar el mercado internacional. Les ayudo a construir una imagen meticulosa y a trasladar sus mensajes con todos los matices. A pesar de mi nombre español, mi familia se mudó a Estados Unidos justo cuando nací. Me he educado en un ambiente bicultural, pero mi lengua materna es el inglés. De hecho, sólo traduzco de español a inglés. Cuando cumplí 30 años, decidí mudarme de Washington DC, mi tierra, y volver a Europa. Me he establecido en Alicante porque me enamora su clima y su calidad de vida, pero continuo viajando de manera regular por Europa y el resto del mundo.</p> 

@@ -1,8 +1,7 @@
 ---
-layout: es_default
-title: Traductora Español Inglés
+layout: en_default
 dest: /
-permalink: /es/
+permalink: /en/
 ---
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">
@@ -15,7 +14,7 @@ permalink: /es/
     <div class="count-box">
       <i class="icofont-live-support"></i>
       <span data-toggle="counter-up">6,261,743</span>
-      <p>Palabras traducidas hasta hoy</p>
+      <p>Words translated to date</p>
     </div>
   </div>
 
@@ -23,7 +22,7 @@ permalink: /es/
     <div class="count-box">
       <i class="icofont-users-alt-5"></i>
       <span data-toggle="counter-up">17</span>
-      <p>Años de experiencia</p>
+      <p>Years of experience</p>
     </div>
   </div>
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-dest: /es/
+dest: /en/
 ---
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">
@@ -13,7 +13,7 @@ dest: /es/
     <div class="count-box">
       <i class="icofont-live-support"></i>
       <span data-toggle="counter-up">6,261,743</span>
-      <p>Words translated to date</p>
+      <p>Palabras traducidas hasta hoy</p>
     </div>
   </div>
 
@@ -21,7 +21,7 @@ dest: /es/
     <div class="count-box">
       <i class="icofont-users-alt-5"></i>
       <span data-toggle="counter-up">17</span>
-      <p>Years of experience</p>
+      <p>Años de experiencia</p>
     </div>
   </div>
 </div>

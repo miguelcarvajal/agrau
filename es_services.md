@@ -1,8 +1,8 @@
 ---
-layout: es_page
+layout: page
 title: Servicios
-dest: /services.html
-permalink: /es/servicios.html
+dest: /en/services.html
+permalink: /servicios.html
 ---
 <!-- ======= Services Section ======= -->
 <section id="services" class="services section-bg">
@@ -203,7 +203,7 @@ permalink: /es/servicios.html
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
       Almudena se ha convertido en uno de nuestros traductores más fiables. Es una auténtica profesional, respeta las fechas límite, cuida el formato y siempre está disponible. ¡Nos encanta!<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="../assets/img/testimonials/subbabel.jpg" class="testimonial-img" alt="">
+    <img src="assets/img/testimonials/subbabel.jpg" class="testimonial-img" alt="">
     <h3>Subbabel</h3>
 
   </div>
@@ -214,7 +214,7 @@ permalink: /es/servicios.html
       Es una traductora infatigable, precisa y puntual. A++.
       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="../assets/img/testimonials/koma.jpg" class="testimonial-img" alt="">
+    <img src="assets/img/testimonials/koma.jpg" class="testimonial-img" alt="">
     <h3>Komalingua</h3>
   </div>
 
@@ -224,7 +224,7 @@ permalink: /es/servicios.html
       Su altísimo conocimiento y práctica acumulada a lo largo de los años y las habilidades adquiridas durante nuestra colaboración han desarrollado en ella un fuerte sentido de la confianza y una actitud muy positiva.
       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="../assets/img/testimonials/indra.jpg" class="testimonial-img" alt="">
+    <img src="assets/img/testimonials/indra.jpg" class="testimonial-img" alt="">
     <h3>Indra BMB</h3>
   </div>
 
@@ -232,7 +232,7 @@ permalink: /es/servicios.html
     <p>
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>Traductora impresionante. Se ha convertido en uno de nuestros proveedores habituales. Sin duda, ¡la recomendamos!<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="../assets/img/testimonials/wordwire.jpg" class="testimonial-img" alt="">
+    <img src="assets/img/testimonials/wordwire.jpg" class="testimonial-img" alt="">
     <h3>Wordwire</h3>
   </div>
 
@@ -240,7 +240,7 @@ permalink: /es/servicios.html
     <p>
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>Una profesional de los pies a la cabeza. Es un placer encontrar traductores como Almudena, y seguiremos trabajando con ella.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="../assets/img/testimonials/carma.jpg" class="testimonial-img" alt="">
+    <img src="assets/img/testimonials/carma.jpg" class="testimonial-img" alt="">
     <h3>Carma</h3>
   </div>
 
@@ -248,7 +248,7 @@ permalink: /es/servicios.html
     <p>
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>Muy buena calidad y comunicación. Cumplió como prometió, siempre agradable y flexible. Altamente recomendable.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="../assets/img/testimonials/tradonline.jpg" class="testimonial-img" alt="">
+    <img src="assets/img/testimonials/tradonline.jpg" class="testimonial-img" alt="">
     <h3>Trad Online</h3>
   </div>
 

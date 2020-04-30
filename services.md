@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: en_page
 title: Services
-dest: /es/servicios.html
-permalink: /services.html
+dest: /servicios.html
+permalink: /en/services.html
 ---
 <!-- ======= Services Section ======= -->
 <section id="services" class="services section-bg">
@@ -206,7 +206,7 @@ image they have worked so hard to create.</p>
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>
       Almudena has become one of our most reliable translators. She is really professional, respects deadlines, keeps the original format and is always reachable. We love her!<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="assets/img/testimonials/subbabel.jpg" class="testimonial-img" alt="">
+    <img src="../assets/img/testimonials/subbabel.jpg" class="testimonial-img" alt="">
     <h3>Subbabel</h3>
 
   </div>
@@ -217,7 +217,7 @@ image they have worked so hard to create.</p>
       She is a hardworking, accurate and punctual translator. A++.
       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="assets/img/testimonials/koma.jpg" class="testimonial-img" alt="">
+    <img src="../assets/img/testimonials/koma.jpg" class="testimonial-img" alt="">
     <h3>Komalingua</h3>
   </div>
 
@@ -227,7 +227,7 @@ image they have worked so hard to create.</p>
       Her superior knowledge and practice accumulated throughout previous years and the skills acquired during our collaboration have developed in her a strong sense of confidence with a positive attitude.
       <i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="assets/img/testimonials/indra.jpg" class="testimonial-img" alt="">
+    <img src="../assets/img/testimonials/indra.jpg" class="testimonial-img" alt="">
     <h3>Indra BMB</h3>
   </div>
 
@@ -235,7 +235,7 @@ image they have worked so hard to create.</p>
     <p>
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>Outstanding translator. She's become one of my usual providers, definitely to be recommended!<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="assets/img/testimonials/wordwire.jpg" class="testimonial-img" alt="">
+    <img src="../assets/img/testimonials/wordwire.jpg" class="testimonial-img" alt="">
     <h3>Wordwire</h3>
   </div>
 
@@ -243,7 +243,7 @@ image they have worked so hard to create.</p>
     <p>
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>An outstanding professional! It is a pleasure to find translators like Almudena, and we will continue working with her.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="assets/img/testimonials/carma.jpg" class="testimonial-img" alt="">
+    <img src="../assets/img/testimonials/carma.jpg" class="testimonial-img" alt="">
     <h3>Carma</h3>
   </div>
 
@@ -251,7 +251,7 @@ image they have worked so hard to create.</p>
     <p>
       <i class="bx bxs-quote-alt-left quote-icon-left"></i>Very good quality and communication. Delivered as promised and was friendly and flexible at all times. Highly recommended.<i class="bx bxs-quote-alt-right quote-icon-right"></i>
     </p>
-    <img src="assets/img/testimonials/tradonline.jpg" class="testimonial-img" alt="">
+    <img src="../assets/img/testimonials/tradonline.jpg" class="testimonial-img" alt="">
     <h3>Trad Online</h3>
   </div>
 

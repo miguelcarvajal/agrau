@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: en_page
 title: Contact
-dest: /es/contacto.html
-permalink: /contact.html
+dest: /contacto.html
+permalink: /en/contact.html
 ---
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact section-bg">
