@@ -1,6 +1,7 @@
 ---
 layout: es_page
 title: Contact
+dest: /contact.html
 permalink: /es/contacto.html
 ---
 <!-- ======= Contact Section ======= -->

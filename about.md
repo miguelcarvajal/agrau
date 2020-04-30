@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+dest: /es/acerca.html
 permalink: /about.html
 ---
 <!-- ======= About Section ======= -->

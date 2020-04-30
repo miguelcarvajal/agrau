@@ -1,6 +1,7 @@
 ---
 layout: es_default
 title: Traductora Español Inglés
+dest: /
 permalink: /es/
 ---
 <!-- ======= Counts Section ======= -->

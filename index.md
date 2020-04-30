@@ -1,5 +1,7 @@
 ---
 layout: default
+dest: /es/
+redirect_to: http://almudenagrau.com/es/
 ---
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">

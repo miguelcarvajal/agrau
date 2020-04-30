@@ -1,6 +1,7 @@
 ---
 layout: es_page
 title: Servicios
+dest: /services.html
 permalink: /es/servicios.html
 ---
 <!-- ======= Services Section ======= -->
