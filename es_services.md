@@ -10,9 +10,9 @@ permalink: /es/servicios.html
 
 <div class="section-title">
   <h2>Servicios</h2>
-  <p>Las empresas españolas que quieren proyectar una marca internacional o expandir su mercado, si quieren que les tomen en serio, deben contratar a un traductor profesional. Aquí es donde entro yo. Mis clientes no se conforman con una traducción literal; necesitan que se traslade una imagen cuidada de aquello que han construido con tanto esfuerzo.</p>
+  <p class="lead">Las empresas españolas que quieren proyectar una marca internacional o expandir su mercado, si quieren que les tomen en serio, deben contratar a un traductor profesional. Aquí es donde entro yo. Mis clientes no se conforman con una traducción literal; necesitan que se traslade una imagen cuidada de aquello que han construido con tanto esfuerzo.</p>
 
-<p>Me especializo en:</p>
+<p class="lead">Me especializo en:</p>
 
 </div>
 
@@ -32,13 +32,13 @@ permalink: /es/servicios.html
   <div class="col-md-6 mt-4">
     <div class="icon-box">
       <i class="icofont-badge"></i>
-      <h4>Relaciones Públicas</h4>
+      <h4>Relaciones públicas</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
     <div class="icon-box">
       <i class="icofont-settings"></i>
-      <h4>Tecnología, informática y telecomunicaciones</h4>
+      <h4>TIC</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
@@ -50,7 +50,7 @@ permalink: /es/servicios.html
   <div class="col-md-6 mt-4">
     <div class="icon-box">
       <i class="icofont-tasks-alt"></i>
-      <h4>Bebés e infantil</h4>
+      <h4>Puericultura</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
@@ -68,19 +68,19 @@ permalink: /es/servicios.html
   <div class="col-md-6 mt-4">
     <div class="icon-box">
       <i class="icofont-image"></i>
-      <h4>Decoración de hogar</h4>
+      <h4>Interiorismo</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
     <div class="icon-box">
       <i class="icofont-settings"></i>
-      <h4>Restauración y bebidas</h4>
+      <h4>Hostelería</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
     <div class="icon-box">
       <i class="icofont-earth"></i>
-      <h4>Turismo y viajes</h4>
+      <h4>Turismo</h4>
     </div>
   </div>
   <div class="col-md-6 mt-4">
@@ -105,7 +105,7 @@ permalink: /es/servicios.html
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4>Imagen</h4>
-              <p>Has trabajado duro en tu negocio y necesitas a un traductor profesional que cuide de manera impecable la imagen que deseas transmitir. Claro, tienes alternativas más baratas o gratis, ¿pero te jugarías tu reputación?</p>
+              <p>Has trabajado duro en tu negocio y necesitas a un traductor profesional que cuide de manera impecable la imagen que deseas transmitir. Claro, existen alternativas más baratas o gratuitas, ¿pero te jugarías tu reputación?</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
@@ -118,28 +118,28 @@ permalink: /es/servicios.html
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4>Profesional</h4>
+              <h4>Profesionalidad</h4>
               <p>Si acordamos una fecha límite, mi compromiso es total. Me planifico de tal forma que tú puedes centrarte en tu negocio sabiendo que mi traducción llegará a tiempo.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4>Seguro de calidad</h4>
-              <p>Cuando termino de traducir un documento, lo reviso minuciosamente, múltiples veces, para asegurar un texto pulido, sin errores, con el tono y las palabras adecuadas.</p>
+              <h4>Garantía de calidad</h4>
+              <p>Cuando termino de traducir un documento, lo reviso minuciosamente, múltiples veces y usando herramientas de control de calidad, para asegurar un texto pulido, sin errores, con el tono y las palabras adecuadas.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4>Gestión de términos</h4>
-              <p>Algunos sectores y clientes requieren una terminología específica. Investigo en profundidad, creo glosarios y aseguro la precisión terminológica en cada traducción para cada audiencia objetivo.</p>
+              <p>Algunos sectores y clientes requieren una terminología específica. Investigo en profundidad, creo glosarios y aseguro la precisión terminológica en cada traducción y para cada público objetivo.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4>Socios a largo plazo</h4>
+              <h4>Colaboraciones a largo plazo</h4>
               <p>Cuanto más tiempo trabajemos juntos, más capaz seré de entender tus necesidades y preferencias, y mejor servicio podré ofrecerte.</p>
             </div>
           </div>

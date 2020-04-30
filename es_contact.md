@@ -10,8 +10,7 @@ permalink: /es/contacto.html
 
 <div class="section-title">
   <h2>Contacto</h2>
-<p>Llámame o escríbeme para pedir presupuesto o para ver cómo puedo ayudarte a expandir tu negocio al mercado.</p>
-<p>internacional. Mi horario de trabajo es de las 9:00 a.m. a las 6:00 p.m., de lunes a viernes.</p>
+<p>Llámame o escríbeme para pedir presupuesto o para ver cómo puedo ayudarte a expandir tu negocio al mercado internacional.</p><p>Mi horario de trabajo es de las 9:00 a.m. a las 6:00 p.m., de lunes a viernes.</p>
 </div>
 
 <div class="row mt-5 justify-content-center">

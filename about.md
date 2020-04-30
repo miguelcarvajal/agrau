@@ -29,7 +29,6 @@ permalink: /about.html
         <p>-	Thomas S. Wootton High School (Maryland, USA). June 1994</p>
         <p>-	Robert Frost Middle School (Maryland, USA). June 1990</p>
         <p>-	Cedar Grove Elementary School (Maryland, USA). June 1988</p>
-        <p>-  <a href="docs/ATA_Chronicle_2002%20March_pages_1_3_6_17.pdf">Article published in the <span class="font-italic">ATA Chronicle</span>. “Getting the Word Out”</a></p>
         <p>-  <a href="docs/ProCertificate_Almudena_Grau.pdf">ProZ Spanish to English Certification</a></p>
       </div>
       <div class="col-md-6 mt-4 mt-md-0">
@@ -41,6 +40,7 @@ permalink: /about.html
       </div>
       <div class="col-md-12 mt-4 mt-md-0">
         <h4>Downloads:</h4>
+        <p>-  <a href="docs/ATA_Chronicle_2002%20March_pages_1_3_6_17.pdf">Article published in the <span class="font-italic">ATA Chronicle</span>. “Getting the Word Out”</a></p>
         <p>-	<a href="docs/AlmudenaGrau_english.pdf">CV in English</a></p>
         <p>-	<a href="docs/AlmudenaGrau_spanish.pdf">CV in Spanish</a></p>
       </div>
