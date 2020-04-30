@@ -9,42 +9,62 @@
 
 <url>
   <loc>http://almudenagrau.com/</loc>
-  <lastmod>2020-04-26T17:17:30+00:00</lastmod>
+  <lastmod>2020-04-30T19:27:01+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://almudenagrau.com/index.html</loc>
-  <lastmod>2020-04-26T17:17:30+00:00</lastmod>
+  <loc>http://almudenagrau.com/servicios.html</loc>
+  <lastmod>2020-04-30T19:27:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://almudenagrau.com/about.html</loc>
-  <lastmod>2020-04-26T17:17:30+00:00</lastmod>
+  <loc>http://almudenagrau.com/acerca.html</loc>
+  <lastmod>2020-04-30T19:27:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://almudenagrau.com/services.html</loc>
-  <lastmod>2020-04-26T17:17:30+00:00</lastmod>
+  <loc>http://almudenagrau.com/contacto.html</loc>
+  <lastmod>2020-04-30T19:27:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://almudenagrau.com/contact.html</loc>
-  <lastmod>2020-04-26T17:17:30+00:00</lastmod>
+  <loc>http://almudenagrau.com/en/</loc>
+  <lastmod>2020-04-30T19:27:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://almudenagrau.com/docs/AlmudenaGrau_english.pdf</loc>
-  <lastmod>2020-04-26T17:17:25+00:00</lastmod>
+  <loc>http://almudenagrau.com/en/services.html</loc>
+  <lastmod>2020-04-30T19:27:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://almudenagrau.com/docs/AlmudenaGrau_spanish.pdf</loc>
-  <lastmod>2020-04-26T17:17:25+00:00</lastmod>
+  <loc>http://almudenagrau.com/en/about.html</loc>
+  <lastmod>2020-04-30T19:27:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://almudenagrau.com/docs/ProCertificate_Almudena_Grau.pdf</loc>
+  <lastmod>2020-04-30T19:26:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://almudenagrau.com/docs/ATA_Chronicle_2002%20March_pages_1_3_6_17.pdf</loc>
-  <lastmod>2020-04-26T17:17:25+00:00</lastmod>
+  <lastmod>2020-04-30T19:26:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://almudenagrau.com/docs/AlmudenaGrau_english.pdf</loc>
+  <lastmod>2020-04-30T19:26:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://almudenagrau.com/docs/AlmudenaGrau_spanish.pdf</loc>
+  <lastmod>2020-04-30T19:26:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://almudenagrau.com/en/contact.html</loc>
+  <lastmod>2020-04-30T19:27:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
