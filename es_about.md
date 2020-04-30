@@ -29,7 +29,7 @@ permalink: /acerca.html
         <p>-  Thomas S. Wootton High School (Maryland, USA). June 1994</p>
         <p>-  Robert Frost Middle School (Maryland, USA). June 1990</p>
         <p>-  Cedar Grove Elementary School (Maryland, USA). June 1988</p>
-        <p>-  <a href="../docs/ProCertificate_Almudena_Grau.pdf">Certificado ProZ Spanish to English </a></p>
+        <p>-  <a href="docs/ProCertificate_Almudena_Grau.pdf">Certificado ProZ Spanish to English </a></p>
       </div>
       <div class="col-md-6 mt-4 mt-md-0">
         <i class="bx bx-cube-alt"></i>
@@ -40,9 +40,9 @@ permalink: /acerca.html
       </div>
       <div class="col-md-12 mt-4 mt-md-0">
         <h4>Descargas:</h4>
-        <p>-  <a href="../docs/ATA_Chronicle_2002%20March_pages_1_3_6_17.pdf">Artículo publicado en <span class="font-italic">ATA Chronicle</span>. “Getting the Word Out”</a></p>
-        <p>-	<a href="../docs/AlmudenaGrau_english.pdf">CV en inglés</a></p>
-        <p>-	<a href="../docs/AlmudenaGrau_spanish.pdf">CV en español</a></p>
+        <p>-  <a href="docs/ATA_Chronicle_2002%20March_pages_1_3_6_17.pdf">Artículo publicado en <span class="font-italic">ATA Chronicle</span>. “Getting the Word Out”</a></p>
+        <p>-	<a href="docs/AlmudenaGrau_english.pdf">CV en inglés</a></p>
+        <p>-	<a href="docs/AlmudenaGrau_spanish.pdf">CV en español</a></p>
       </div>
     </div>
 
